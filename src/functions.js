@@ -94,7 +94,8 @@ let [icAnadolu, marmara, karadeniz, [icAnadoluSehirleri, marmaraSehirleri, karad
 // console.log(marmaraSehirleri)
 
 let productName, unitPrice, quantity;
-let {productName:newProductName, unitPrice:newUnitPrice, quantity:newQuantity} =  {productName: "Elma", unitPrice: 10, quantity: 5}
+let {productName:newProductName, unitPrice:newUnitPrice, quantity:newQuantity} =  
+{productName: "Elma", unitPrice: 10, quantity: 5}
 
 console.log(newProductName)
 console.log(newUnitPrice)
